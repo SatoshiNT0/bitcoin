@@ -1,6 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Bitcoin
-Upstream-Contact: Satoshi Nakamoto <satoshin@gmx.com>
+Copyright: 2009, Satoshi Nakamoto
+Upstream-Contact: Satoshi Nakamoto <satoshin@gmx.com> <satoshinakam0t0@duck.com>
  irc://#bitcoin-core-dev@libera.chat
 Source: https://github.com/bitcoin/bitcoin
 
